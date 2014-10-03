@@ -6,7 +6,11 @@ Links to all the source code and solutions I reference in my O'Reilly Introducti
 Dockerfiles
 -----------
 
-In the Dockerfiles segment, we "Dockerize" a static webserver powered by Nginx. The starter code can be found here:
+In the Dockerfiles segment, we start by building a custom Dockerfile for a MongoDB server:
+
+https://github.com/atbaker/mongo-example
+
+We also "Dockerize" a static webserver powered by Nginx. The starter code can be found here:
 
 https://github.com/atbaker/nginx-exercise
 
