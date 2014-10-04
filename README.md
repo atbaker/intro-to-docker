@@ -21,6 +21,8 @@ In this segment, we "Dockerize" a sample web application powered by Flask. The s
 
 https://github.com/atbaker/flask-example/
 
+**Don't forget to destroy your DigitalOcean server at the end of this segment if you don't plan to keep using it!**
+
 Using Fig
 ---------
 
