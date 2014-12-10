@@ -1,7 +1,9 @@
 Introduction to Docker reference code
 =====================================
 
-Links to all the source code and solutions I reference in my O'Reilly Introduction to Docker video tutorial.
+Links to all the source code and solutions I reference in my O'Reilly [Introduction to Docker](http://shop.oreilly.com/product/0636920035732.do) video tutorial.
+
+If you enjoy the tutorial, you can keep up with me on Twitter ([@andrewtorkbaker](https://twitter.com/andrewtorkbaker)) and my blog: http://andrewtorkbaker.com/
 
 Dockerfiles
 -----------
